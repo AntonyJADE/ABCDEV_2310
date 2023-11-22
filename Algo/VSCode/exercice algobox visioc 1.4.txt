@@ -1,0 +1,22 @@
+Variables
+    somme est un entier
+    interet est un réel
+    nbannée est un entier
+    interetsimple est un réel
+    interetcomposé est un réel
+Debut du programmme
+    Ecrire "saisir la somme"
+    Lire la somme
+    Ecrire "saisir interet"
+    Lire interet
+    Ecrire "saisir le nombre d'année
+    Lire le nombre d'année 
+    interetsimple<==somme*(1+nbannée*interet/100)
+    interetcomposé<==somme*(1+interet/100)
+    Ecrire "la valeur acquise avec un interetsimple est"
+    Lire "interetsimple"
+    Ecrire "la valeur acquise avec un interet composé est:"
+    Lire "interet composé"
+Fin du programme
+
+

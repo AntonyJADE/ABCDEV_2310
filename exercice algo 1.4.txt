@@ -1,0 +1,12 @@
+s est la somme initiale
+i est l'intérêt
+
+début du programme
+ecrire la somme initiale
+lire s
+ecrire taux d'interet 
+lire t
+interet<--somme initiale*taux/100
+valeur_acquise<--somme_initiale+interet
+ecrire"L'interet fourni est de, interet,"euros"
+ecrire"La somme  après un an sera de",valeur acquise, "euros"
